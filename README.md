@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+#Budget Manager
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+In this small project, you can set an initial budget and then enter your expenses. It features various categories, such as miscellaneous expenses, subscriptions, health, and more.
 
-## Recommended IDE Setup
+##Features:
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+    Initial Budget Setup: Set up your initial budget to keep track of your finances.
+    Expense Tracking: Easily enter and manage your expenses within different predefined categories.
+    Category Management: Categorize your expenses into various predefined categories for better organization.
+    Detailed Expense Records: View detailed records of your expenses, including date, category, and amount.
+    Budget Monitoring: Keep an eye on your budget and expenses to maintain financial control.
+
+##How to Use:
+
+    Set your initial budget.
+    Enter your expenses by selecting the appropriate category.
+    View and manage your expenses within each category.
+    Monitor your budget to stay within your financial goals.
+
+Feel free to contribute to this project and help make it even better!
